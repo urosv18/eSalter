@@ -1,0 +1,62 @@
+body {
+	font-family: 'Roboto', sans-serif;
+  background: url(desktop3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.logo{
+	height: 250px;
+	width: 250px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box-main{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-between;
+}
+.box{
+  background: #2C5981;
+  border-radius: 4px;
+  width: 20%;
+  padding: 5px;
+  margin-top: 10px;
+  color: white;
+}
+.link{
+	text-decoration: none;
+	color: white;
+}
+footer{
+	position: fixed;
+	left: 0;
+    bottom: 0;
+    width: 100%;
+	
+}
+.footer-slika{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.opis{
+	text-align: center;
+	color: #71a2b0;
+
+}
+.opis a{
+	text-decoration: none;
+	color: #71a2b0;
+}
