@@ -10,7 +10,7 @@ Proizvodnja 2018, poslednja verzija 1.0 (Last commit 19.07.2018.)
 # Changelog
 
 Verzija 0.1 (3 months ago)
--eŠalter napravljen i okačen
+- eŠalter napravljen i okačen
 
 Verzija 1.0 (19.07.2018)
 - Novi GUI
