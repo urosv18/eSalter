@@ -60,3 +60,34 @@ footer{
 	text-decoration: none;
 	color: #71a2b0;
 }
+
+
+.izbor{
+	height: 200px;
+	width: 200px;
+	cursor: pointer;
+}
+.pocetna{
+	height: 100vh;
+}
+.drugi-deo{
+	height: 100vh;
+}
+.treci-deo{
+	height: 100vh;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #c1e4f1;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+
