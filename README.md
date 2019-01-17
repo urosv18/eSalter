@@ -18,6 +18,6 @@ Verzija 1.0 (19.07.2018)
 - Nove ikonice i hyperlinkovi
 - JS dodat, kao i ikonica back
 
-
+Verzija 1.1 (Coming soon!)
 
 
