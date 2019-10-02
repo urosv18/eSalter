@@ -18,6 +18,8 @@ Verzija 1.0 (19.07.2018)
 - Nove ikonice i hyperlinkovi
 - JS dodat, kao i ikonica back
 
-Verzija 1.1 (Coming soon!)
+Verzija 1.1 (02.10.2019.)
+- Napravljena nova stranica updates.html
+- Dodat link ka IPC-u
 
-
+Verzija 2.0 (Coming soon!)
